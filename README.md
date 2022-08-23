@@ -1,4 +1,4 @@
 # Hotstar-clone
 
-preview
+preview - 
 https://hotstar-clone-project-vivek20adhikari.netlify.app/
